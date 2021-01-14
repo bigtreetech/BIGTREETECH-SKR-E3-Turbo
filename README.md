@@ -6,7 +6,7 @@ These and other SRK mainboard/motherboard for 3D-printers are produced by the 3D
 
 The first BIGTREETECH SKR Mini E3 V1.x 32-bit control boards with integrated TMC stepper-drivers was initially specially designed to be a drop-in replacement upgrade board for the Ender 3 printers by Creality, making replacing the original 8-bit mainboard/motherboard hardware used by the very popular Ender-3 3D-printer quick and easy for most users. Software updates have since released also added compatibility for other 3D-printers with a single Z-axis stepping-motor, including support for CR-10, CR-10 Mini, Ender 3 Pro from Creality.
 
-BIGTREETECH SKR Mini E3 V2.x has added additional hardware improvements and enhancements based on community feedback. Among other things, these improvements and enhancements with SKR Mini E3 V2.x include two Z-axis interface ports, and SKR Mini E3 V2.x is today, in addition to the 3D-printers already support by the V1.x boards, also compatible with CR-10S, CR-10 S4, CR-10 S5, Ender 5, Ender 5 Pro, and Ender 5 Plus from Creality.
+BIGTREETECH SKR Mini E3 V2.x has added additional hardware improvements and enhancements based on community feedback. Among other things, these improvements and enhancements with SKR Mini E3 V2.x include two Z-axis interface ports, and SKR Mini E3 V2.x plus BIGTREETECH SKR E3 Turbo is today, in addition to the 3D-printers already support by the SKR Mini E3 V1.x boards, also compatible with CR-10S, CR-10 S4, CR-10 S5, Ender 5, Ender 5 Pro, and Ender 5 Plus 3D-printers from Creality.
 
 BIGTREETECH SKR E3 Turbo uses the more powerful MCU, nerwer stepper drivers and has a slightly larger footprint for dual extruders/hotends or independent dual Z depending on firmware configuration.
 
