@@ -163,15 +163,17 @@
 #define TEMP_1_PIN                         P0_23
 //#define TEMP_2_PIN                       P1_30  // Onboard thermistor
 #define TEMP_BED_PIN                       P0_25
+#define TEMP_CHAMBER_PIN                   P1_30
 
 //
 // Heaters / Fans
 //
 #define HEATER_0_PIN                       P2_03  // EXTRUDER 0
-#define HEATER_1_PIN                       P2_04  // EXTRUDER 1
+//#define HEATER_1_PIN                     P2_04  // EXTRUDER 1
 #define HEATER_BED_PIN                     P2_05  // BED
 #define FAN_PIN                            P2_01
 #define FAN1_PIN                           P2_02
+#define FAN2_PIN                           P2_04
 
 /**
  *                  _____
